@@ -14,12 +14,9 @@
 #define LED_ROUGE_2 _LATA10
 #define LED_VERTE_2 _LATH3
 
-
-
 // Prototypes fonctions
 void InitIO();
 void LockIO();
 void UnlockIO();
 
-#endif /* IO_H */
-
+#endif

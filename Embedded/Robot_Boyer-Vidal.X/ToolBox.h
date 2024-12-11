@@ -1,23 +1,13 @@
-/* 
- * File:   ToolBox.h
- * Author: E306-PC6
- *
- * Created on 11 décembre 2024, 14:00
- */
+#ifndef ToolBox_H
+#define ToolBox_H
+#define PI 3.141592653589793
 
-#ifndef TOOLBOX_H
-#define	TOOLBOX_H
-
-#ifdef	__cplusplus
-extern "C" {
-#endif
+float Abs(float value);
+float Max(float value, float value2);
+float Min(float value, float value2);
+float LimitToInterval(float value, float lowLimit, float highLimit);
+float RadianToDegree(float value);
+float DegreeToRadian(float value);
 
 
-
-
-#ifdef	__cplusplus
-}
-#endif
-
-#endif	/* TOOLBOX_H */
-
+#endif 
