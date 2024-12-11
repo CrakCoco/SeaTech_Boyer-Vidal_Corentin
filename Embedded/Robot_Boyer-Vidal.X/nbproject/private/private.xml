@@ -2,6 +2,25 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/timer.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/main.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ToolBox.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PWM.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/timer.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ToolBox.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ADC.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ChipConfig.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PWM.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/main.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PMW.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ChipConfig.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ADC.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/Robot.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/IO.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/IO.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/Robot.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PMW.h</file>
+        </group>
     </open-files>
 </project-private>
