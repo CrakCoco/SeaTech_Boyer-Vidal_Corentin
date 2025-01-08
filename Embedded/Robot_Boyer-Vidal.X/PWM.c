@@ -92,5 +92,3 @@ void PWMSetSpeedConsigne (int vitesseEnPourcents, int numeroMoteur){
 }
 
 
-
-
