@@ -145,6 +145,7 @@ void SetNextRobotStateInAutomaticMode() {
         case 0b01101:
         case 0b01010:
         case 0b10101:
+        //case 0b11100:
             nextStateRobot = STATE_RECULE;
             break;
             
@@ -196,6 +197,24 @@ void OperatingSystemLoop(void) {
         case STATE_TOURNE_SUR_PLACE_EN_COURS:
             SetNextRobotStateInAutomaticMode();
             break;
+            
+        case STATE_TOURNE_SUR_PLACE_DROITE:
+            PWMSetSpeedConsigne(30, MOTEUR_DROIT);
+            PWMSetSpeedConsigne(5, MOTEUR_GAUCHE);
+            stateRobot = STATE_TOURNE_SUR_PLACE_DROITE_EN_COURS;
+            break;
+        case STATE_TOURNE_SUR_PLACE_DROITE_EN_COURS:
+            SetNextRobotStateInAutomaticMode();
+            break;
+            
+        case STATE_TOURNE_SUR_PLACE_GAUCHE:
+            PWMSetSpeedConsigne(-5, MOTEUR_DROIT);
+            PWMSetSpeedConsigne(-30, MOTEUR_GAUCHE);
+            stateRobot = STATE_TOURNE_SUR_PLACE_GAUCHE_EN_COURS;
+            break;
+        case STATE_TOURNE_SUR_PLACE_GAUCHE_EN_COURS:
+            SetNextRobotStateInAutomaticMode();
+            break;
 
 
         case STATE_TOURNE_DROITE:
@@ -233,6 +252,7 @@ void OperatingSystemLoop(void) {
         case STATE_RECULE_EN_COURS:
             SetNextRobotStateInAutomaticMode();
             break;
+    
 
         default:
             stateRobot = STATE_ATTENTE;
