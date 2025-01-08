@@ -21,7 +21,7 @@ void InitPWM(void) {
     /* Enable PWM Module */
     PTCONbits.PTEN = 1;
     
-    robotState.acceleration = 1;
+    robotState.acceleration = 50;
 }
 double talon = 50;
 

@@ -28,6 +28,7 @@ void InitIO() {
     _TRISK15 = 0; //LED_Orange_2
     _TRISA0 = 0; //LED_Blanche_2
     
+    _TRISH1=1; //Bouton
     
     
     
