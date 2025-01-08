@@ -7,14 +7,15 @@
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/main.c</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PWM.c</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/timer.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ADC.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ChipConfig.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PWM.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/main.h</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ChipConfig.h</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ADC.c</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/Robot.h</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/IO.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ADC.h</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/IO.h</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ChipConfig.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PWM.h</file>
         </group>
     </open-files>
 </project-private>
