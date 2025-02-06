@@ -8,6 +8,8 @@
 #include "ADC.h"
 #include "robot.h"
 #include "main.h"
+#include "UART.h"
+#include"CB_TX1.h"
 
 int main(void) {
 
@@ -33,6 +35,7 @@ int main(void) {
     //InitTimer1();
     //InitTimer23();
     InitTimer4();
+    InitUART();
 
 
     //robotState.acceleration=1;
@@ -41,6 +44,9 @@ int main(void) {
     // Boucle Principale
     /***********************************************************************************************/
     while (1) {
+//        SendMessageDirect((unsigned char*) "Bonjour", 7);
+//        __delay32(40000000);
+        SendMessage((unsigned char*) "Bonjour", 7);
 
         if (ADCIsConversionFinished() == 1) {
             ADCClearConversionFinishedFlag();
