@@ -4,20 +4,9 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/main.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ADC.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ChipConfig.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/IO.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PWM.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/timer.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ADC.h</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/ChipConfig.h</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/IO.h</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/PWM.h</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/Robot.h</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/timer.h</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/main.h</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/CB_RX1.c</file>
+            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/CB_RX1.h</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/UART.c</file>
-            <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/UART.h</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/CB_TX1.c</file>
             <file>file:/C:/Github/SeaTech_Boyer-Vidal_Corentin/Embedded/Robot_Boyer-Vidal.X/CB_TX1.h</file>
         </group>

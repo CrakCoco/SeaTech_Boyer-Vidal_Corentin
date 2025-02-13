@@ -54,7 +54,7 @@ int main(void) {
             unsigned char c = CB_RX1_Get();
             SendMessage(&c,1);
         }
-        __delay32(1000);
+        //__delay32(1000);
 
         if (ADCIsConversionFinished() == 1) {
             ADCClearConversionFinishedFlag();
@@ -93,6 +93,7 @@ int main(void) {
         }//eux ils ont Ã©tÃ© mis a jour
     }
 }
+
 
 unsigned char stateRobot;
 unsigned char nextStateRobot = 0;
